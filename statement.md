@@ -1,9 +1,5 @@
 # Welcome!
-title: Put your playground title here
-plan:
-  - title: Welcome
-    statement: markdowns/welcome.md
-    
+
 This Ruby template lets you get started quickly with a simple one-page playground.
 
 ```ruby runnable
